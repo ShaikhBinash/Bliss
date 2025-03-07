@@ -34,7 +34,7 @@ python manage.py migrate
 5. Create a superuser (if needed):
 python manage.py createsuperuser
 
-6.Run the development server:
+6. Run the development server:
 python manage.py runserver
 
 Now, you can access the website at http://127.0.0.1:8000/ and log into the admin panel at http://127.0.0.1:8000/admin/ using the provided credentials.
