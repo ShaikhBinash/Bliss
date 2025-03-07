@@ -2,17 +2,17 @@
 # Bliss Cafe - A Django-Powered Website 
 Bliss Cafe is a beautifully designed web application built using Django, providing an elegant and seamless experience for customers looking to explore the cafe's menu, place orders, and get updates on special offers.
 # Features:
-# User-Friendly Interface:
+User-Friendly Interface:
 A clean and intuitive design that enhances the customer experience.
-# Menu Management: 
+Menu Management: 
 Displays a dynamic menu with categories, descriptions, and pricing.
-# Online Ordering System: 
+Online Ordering System: 
 Customers can add items to their cart and place orders directly.
-# Authentication System: 
+Authentication System: 
 Secure login and registration functionality for users.
-# Admin Panel: 
+Admin Panel: 
 Manage menu items, orders, and customer data through Django’s built-in admin interface.
-# Responsive Design: 
+Responsive Design: 
 Fully optimized for mobile, tablet, and desktop users.
 # Technical Details:
 Framework: Django
