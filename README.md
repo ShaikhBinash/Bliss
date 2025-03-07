@@ -21,12 +21,15 @@ Database: SQLite/PostgreSQL/MySQL
 Authentication: Django’s built-in authentication system
 # Admin Login Credentials:
 Username: binashshaikh
+
 Email: binashshaikh972@gmail.com
+
 Password: Cafe_Website
 # Setup Instructions:
-1.Clone the repository:
+1. Clone the repository:
 git clone <repository-url>
 cd bliss-cafe
+
 2. Create a virtual environment and activate it:
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
